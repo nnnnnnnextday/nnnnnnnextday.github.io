@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: Chanzf
-zhihu_username: Chanzf
-github_username: Chanzf
-twitter_username: Chanzf
+# weibo_username: Chanzf
+# zhihu_username: Chanzf
+# github_username: Chanzf
+# twitter_username: Chanzf
 #facebook_username:  Chanzf
 #linkedin_username:  firstname-lastname-idxxxx
 
