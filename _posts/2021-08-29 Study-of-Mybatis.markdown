@@ -1,7 +1,6 @@
-# 2021-08-29 Study-of-Mybatis
-- - - -
+---
 layout:     post
-title:      “ 【半ORM框架Mybatis学习】Mybatis框架核心流程分析]”
+title:      “Study-of-Mybatis”
 subtitle:   “半ORM框架Mybatis学习”
 date:       2021-08-29 12:00:00
 author:     “Chzf”
@@ -10,7 +9,7 @@ tags:
     - Mybatis
     - Java
     - 后端
-- - - -
+---
 
 ## Mybatis核心流程
 
