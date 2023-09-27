@@ -2,7 +2,7 @@
 layout:     post
 title:      Study-of-Mybatis
 subtitle:   半ORM框架Mybatis学习
-date:       2021-08-29 12:00:00
+date:       2023-08-29 12:00:00
 author:     “Chzf”
 header-img: "img/post-bg-2015.jpg"
 tags:
